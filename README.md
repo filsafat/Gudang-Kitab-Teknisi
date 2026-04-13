@@ -33,13 +33,13 @@ Semua materi di sini disusun berdasarkan pengalaman nyata dari meja kerja **Sera
 ---
 
 ### ☕ Support My Work / Dukung Karya Saya
-If my technical guides helped you save a device, consider supporting my research!
-*Jika panduan teknis saya membantu Anda menyelamatkan perangkat, dukung riset saya ya!*
+If my technical resources or hardware research have helped you, consider supporting me!  
+*Jika sumber daya teknis atau riset hardware saya membantu Anda, dukung saya ya!*
 
-#### 🌏 International Supporters (PayPal)
+#### 🌏 International Support (via PayPal)
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/MuhamadAlawi767)
 
-#### 🇮🇩 Indonesian Supporters (Trakteer)
+#### 🇮🇩 Dukungan Lokal (via Trakteer)
 [![Trakteer](https://img.shields.io/badge/Trakteer-Traktir_Kopi-001f3f?style=for-the-badge&logo=coffeescript&logoColor=FFD700)](https://trakteer.id/dreamflasher)
 
 ---
