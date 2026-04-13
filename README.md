@@ -37,7 +37,7 @@ If my technical guides helped you save a device, consider supporting my research
 *Jika panduan teknis saya membantu Anda menyelamatkan perangkat, dukung riset saya ya!*
 
 #### 🌏 International Supporters (PayPal)
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-003087?style=for-the-badge&logo=paypal&logoColor=white)]([paypal.me/MuhamadAlawi767](https://www.paypal.me/MuhamadAlawi767))
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-003087?style=for-the-badge&logo=paypal&logoColor=white)]([https://www.paypal.me/MuhamadAlawi767])
 
 #### 🇮🇩 Indonesian Supporters (Trakteer)
 [![Trakteer](https://img.shields.io/badge/Trakteer-Traktir_Kopi-001f3f?style=for-the-badge&logo=coffeescript&logoColor=FFD700)](https://trakteer.id/dreamflasher)
